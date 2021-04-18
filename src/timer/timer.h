@@ -1,5 +1,5 @@
-#ifndef UTILS_TIME_H_
-#define UTILS_TIME_H_
+#ifndef UTILS_TIMER_TIMER_H_
+#define UTILS_TIMER_TIMER_H_
 
 #include <chrono>
 
@@ -19,4 +19,4 @@ static inline double Duration(const time& start, const time& end) {
 
 } // namespace utils
 
-#endif // UTILS_TIME_H_
+#endif // UTILS_TIMER_TIMER_H_
